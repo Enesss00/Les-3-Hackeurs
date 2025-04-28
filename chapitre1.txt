@@ -1,0 +1,15 @@
+Chapitre 1 - Le Portail
+
+Devant Dylan, Enes et Yanis, se dressait une gigantesque porte de données.
+Les pixels crépitaient dans l'air chargé d'électricité.
+
+Voici la porte :
+
+  ___________
+ /           \
+|    PORTAL   |
+ \___________/
+
+Ils échangèrent un regard complice.
+Il était temps de plonger dans GitHub Monde.
+
