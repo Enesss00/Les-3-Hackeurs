@@ -1,0 +1,26 @@
+Chapitre 3 - Le Gardien du Merge
+
+Après avoir vaincu le Dragon 404, Dylan, Enes et Yanis avancèrent dans les terres fragmentées du GitHub Monde.
+
+Une silhouette étrange se dressa sur leur route.
+C'était le Gardien du Merge, protecteur de l'intégrité des branches.
+
+Son apparence étrange semblait flotter entre les commits :
+
+      .-"      "-.
+     /            \
+    |              |
+    |,  .-.  .-.  ,|
+    | )(_o/  \o_)( |
+    |/     /\     \|
+    (_     ^^     _)
+     \__|IIIIII|__/
+      | \IIIIII/ |
+      \          /
+       `--------`
+
+Le Gardien leur parla :
+
+"Seules les branches pures pourront fusionner. Corrompez-vous, et vous serez effacés."
+
+Dylan serra les poings. Le chemin vers le Repository Suprême s’annonçait plus périlleux qu’ils ne l’imaginaient.
