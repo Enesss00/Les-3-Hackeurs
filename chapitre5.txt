@@ -1,0 +1,23 @@
+Chapitre 5 - Le Bug Vivant
+
+À peine avaient-ils franchi la Porte du Merge qu'une abomination surgit devant eux.
+
+Ce n'était plus une simple erreur...  
+C'était un Bug Vivant : un être chaotique fait de fragments de codes échoués, de fonctions sans fin et de variables folles.
+
+Son apparence effrayante déstabilisa Dylan, Enes et Yanis :
+
+           ____
+        .-" +' "-.
+       /.'.'A_'*`.\
+      |:.*'/\-\. ':|
+      |:.'.||"|.'*:|
+       \:~^~^~^~^:/
+        /`-....-'\
+
+La créature avançait, corrompant tout ce qu'elle touchait.
+
+Dylan sortit immédiatement un correctif ; Enes stabilisa les branches autour d’eux ; Yanis vit la faille dans le cœur du bug.
+
+La bataille décisive avait commencé.
+
