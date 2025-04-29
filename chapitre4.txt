@@ -1,0 +1,24 @@
+Chapitre 4 - La Porte du Merge
+
+Après avoir résolu l'énigme du Gardien, une gigantesque porte apparut devant eux.
+
+C'était la Porte du Merge : passage ultime entre les branches divergentes du GitHub Monde.
+
+Voici l'apparence de la porte :
+
+         ______
+       .-'      `-.
+     .'            '.
+    /                \
+   ;                  ;
+   |                  |
+   ;                  ;
+    \                /
+     '.            .'
+       `-.______.-'
+
+À travers cette porte, Dylan, Enes et Yanis savaient qu'ils pourraient fusionner leurs chemins, 
+mais seulement s'ils restaient unis et purs.
+
+Le souffle court, ils franchirent ensemble le seuil incandescent.
+
